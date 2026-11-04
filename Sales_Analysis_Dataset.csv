@@ -1,0 +1,37 @@
+Order_Date,Order_ID,City,Region,Category,Product,Sales_Channel,Quantity,Unit_Price,Revenue,Discount_Percent
+03-01-2026,SO1001,Mumbai,West,Electronics,Laptop,Online,2,42000,84000,10
+05-01-2026,SO1002,Pune,West,Accessories,Mouse,Online,5,650,3250,5
+07-01-2026,SO1003,Delhi,North,Electronics,Smartphone,Store,3,18000,54000,8
+09-01-2026,SO1004,Bengaluru,South,Electronics,Monitor,Online,2,12500,25000,10
+11-01-2026,SO1005,Hyderabad,South,Accessories,Keyboard,Store,4,1200,4800,0
+13-01-2026,SO1006,Mumbai,West,Electronics,Headphones,Online,6,2200,13200,5
+15-01-2026,SO1007,Jaipur,North,Home Office,Office Chair,Store,2,7500,15000,10
+17-01-2026,SO1008,Chennai,South,Electronics,Laptop,Online,1,44000,44000,5
+19-01-2026,SO1009,Ahmedabad,West,Accessories,USB Cable,Online,10,250,2500,0
+21-01-2026,SO1010,Kolkata,East,Electronics,Smartphone,Store,2,17500,35000,8
+02-02-2026,SO1011,Mumbai,West,Electronics,Monitor,Online,3,11800,35400,10
+04-02-2026,SO1012,Pune,West,Accessories,Keyboard,Online,6,1100,6600,5
+06-02-2026,SO1013,Delhi,North,Electronics,Laptop,Store,2,43000,86000,8
+08-02-2026,SO1014,Bengaluru,South,Electronics,Headphones,Online,4,2400,9600,0
+10-02-2026,SO1015,Hyderabad,South,Home Office,Office Chair,Online,3,7200,21600,10
+12-02-2026,SO1016,Mumbai,West,Electronics,Smartphone,Store,4,18500,74000,5
+14-02-2026,SO1017,Jaipur,North,Accessories,Mouse,Online,8,700,5600,0
+16-02-2026,SO1018,Chennai,South,Electronics,Monitor,Store,2,12200,24400,8
+18-02-2026,SO1019,Ahmedabad,West,Accessories,USB Cable,Store,12,230,2760,0
+20-02-2026,SO1020,Kolkata,East,Electronics,Laptop,Online,1,45000,45000,10
+01-03-2026,SO1021,Mumbai,West,Electronics,Laptop,Online,3,41500,124500,10
+03-03-2026,SO1022,Pune,West,Home Office,Office Chair,Store,2,7800,15600,5
+05-03-2026,SO1023,Delhi,North,Electronics,Smartphone,Online,5,18200,91000,8
+07-03-2026,SO1024,Bengaluru,South,Accessories,Keyboard,Store,7,1250,8750,0
+09-03-2026,SO1025,Hyderabad,South,Electronics,Monitor,Online,3,12700,38100,10
+11-03-2026,SO1026,Mumbai,West,Electronics,Headphones,Store,8,2300,18400,5
+13-03-2026,SO1027,Jaipur,North,Accessories,Mouse,Online,10,680,6800,0
+15-03-2026,SO1028,Chennai,South,Electronics,Laptop,Store,2,43500,87000,8
+17-03-2026,SO1029,Ahmedabad,West,Accessories,USB Cable,Online,15,240,3600,0
+19-03-2026,SO1030,Kolkata,East,Electronics,Smartphone,Online,3,17800,53400,5
+21-03-2026,SO1031,Mumbai,West,Home Office,Office Chair,Online,4,7600,30400,10
+23-03-2026,SO1032,Pune,West,Electronics,Monitor,Store,2,12100,24200,5
+25-03-2026,SO1033,Delhi,North,Accessories,Keyboard,Online,5,1150,5750,0
+27-03-2026,SO1034,Bengaluru,South,Electronics,Headphones,Online,6,2350,14100,8
+29-03-2026,SO1035,Hyderabad,South,Electronics,Laptop,Store,2,42500,85000,10
+31-03-2026,SO1036,Mumbai,West,Accessories,USB Cable,Online,20,245,4900,0
